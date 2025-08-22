@@ -7,5 +7,6 @@ I’m **Otto Graff Matos**, a Computer Engineering student (almost finishing); p
 - An **interactive web app** to learn about **countries, its own flags, and some particular data** in a 'good looking web' way.   
 
 📫 **How to reach me:**  
-- [[LinkedIn](https://www.linkedin.com/in/ottograffmatos/)](#)  
-- [[Email](ottograff03@gmail.com)](#) 
+- **LinkedIn:** [Otto Graff Matos](https://www.linkedin.com/in/ottograffmatos/)
+- **Email:** [ottograff03@gmail.com](mailto:ottograff03@gmail.com)
+
